@@ -1,0 +1,2 @@
+exclude: ['Gemfile', 'Gemfile.lock']
+baseurl: "http://indykid.github.io/blogify/"
